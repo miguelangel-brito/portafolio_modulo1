@@ -1,0 +1,23 @@
+body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#Hero-Section {
+    background-image: url("../imgs/portada.png");
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+  }
+  
+  .Form-contacto {
+    padding: auto;
+    margin: 5%;
+  }
+
+  .mt-5{
+    margin-top: 0%;
+  }
+  .mb-2{
+    margin-bottom: 0%;
+  }
